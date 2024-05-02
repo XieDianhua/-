@@ -1,0 +1,11 @@
+{
+    "C_Cpp.default.includePath": [
+        "/usr/include/**",
+        "/usr/lib/gcc/**"
+    ],
+    "files.associations": {
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "stdbool.h": "c"
+    }
+}
